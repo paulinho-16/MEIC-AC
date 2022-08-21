@@ -1,9 +1,9 @@
-utils/data.csv
 kaggle.json
 env/
 __pycache__
 
-src/data_understanding/plots/**/**
-src/models/confusion_matrix.jpg
-src/models/tree.jpg
-src/dendogram.jpg
+Project/src/data_understanding/plots/**/**
+Project/src/clean_data/
+Project/src/models/
+Project/src/results/
+Project/src/dendogram.jpg
